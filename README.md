@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamer Alperen</h1>
-<h3 align="center">Balıkesir University, 4th year in ceng</h3>
+<h3 align="center">Graduated Balıkesir University from ceng</h3>
 
--  I’m currently working on PHP and currently learning Laravel and Javascript
+-  I’m currently working on PHP, Laravel, Javascript and currently learning Vue.js
 -  I'm open to collaborating on Javascript
 -  📫 How to reach me **kamer.alperen@gmail.com**
 
